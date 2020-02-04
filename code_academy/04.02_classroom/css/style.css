@@ -1,0 +1,12 @@
+.contact-info {
+    list-style-type: none;
+     background: #ed3348; width: 300px; padding: 30px;
+    display: inline-block
+}
+.contact-info li {
+
+}
+.contact-info li i{ color: aliceblue; margin-right:  15px ; fornt-s
+
+}
+.contact-info li p{}
